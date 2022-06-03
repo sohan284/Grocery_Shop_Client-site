@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "TEER OIL",
+        "price": "1000",
+        "quantity":9,
+        "suplier-name":"Sakib ali",
+        "description": "TEER is the most acclaimed brand of City Group with footprint in edible oil, atta, flour, semolina, rice, lentil, sugar and animal feed products.",
+        "img": "https://i.ibb.co/fS5yrb7/e7cd0672a9fada798f02f452ad68c6f9.jpg"
+    },
+    {
+        "id": 2,
+        "name": "TEER ATTA",
+        "price": "38",
+        "quantity":18,
+        "suplier-name":"Nakib ali",
+        "description": " One of the fundamental things of any of the restaurant is Wheat flour. Commonly, in home heating and is normally the casing work for pretty much every business in baked items and pasta. Teer Atta is the main oat grain with adequate gluten substance to make a portion of bread without being blended with another grain",
+        "img": "https://i.ibb.co/GHmJRtZ/6b0dcbdf-a587-4e09-95e0-19328c341371.jpg"
+    },
+    {
+        "id": 3,
+        "name": "TEER SUGAR",
+        "price": "76",
+        "quantity":13,
+        "suplier-name":"Rakib ali",
+        "description": "TEER Sugar is extra fine granulated, free-flowing and of the highest quality. TEER Sugar retains its original flavor & properties of cane sugar due to optimum degree of refining by European technology under hygienic conditions.",
+        "img": "https://i.ibb.co/17YQwFV/Teer-sugar-refined.webp"
+    },
+    {
+        "id": 4,
+        "name": "ACI SALT",
+        "price": "35",
+        "quantity":32,
+        "suplier-name":"Omit Mondal",
+        "description": "Salt is the most important ingredient in cooking. Without salt, nothing tastes good. Sometimes foods become uneatable without salt. ACI brings the purest salt that is full of sodium and potassium.",
+        "img": "https://i.ibb.co/drrtmr5/salt.jpg"
+    },
+    {
+        "id": 5,
+        "name": "BASHUNDHARA SUJI",
+        "price": "42",
+        "quantity":23,
+        "suplier-name":"Rohan Mondal",
+        "description": "Bashundhara Suji is the perfect ingredient for preparing nutritious and delicious food. Produced from the finest wheat using state of the art European .",
+        "img": "https://i.ibb.co/FmxBQKR/Bashundhara-Suji-500gm.jpg"
+    },
+    {
+        "id": 6,
+        "name": "MAGGI NOODLES",
+        "price": "60",
+        "quantity":7,
+        "suplier-name":"sakib ali",
+        "description": "MAGGI Noodles is the most loved instant noodles in Bangladesh which has won the hearts of Bangladeshi families over the last 2 decades.",
+        "img": "https://i.ibb.co/5sH83T5/81-JI5-O0q-B5-L-SX522.jpg"
+    }  
+]
